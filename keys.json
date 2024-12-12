@@ -1,0 +1,12 @@
+{
+    "keys": {
+        "abc123": {
+            "status": "valid",
+            "expiration": "2025-12-31"
+        },
+        "xyz789": {
+            "status": "valid",
+            "expiration": null
+        }
+    }
+}
